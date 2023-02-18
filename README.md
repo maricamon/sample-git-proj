@@ -1,1 +1,1 @@
-This is the Development branch for sample-git-proj repository.
+This is for sample-git-proj repository.
